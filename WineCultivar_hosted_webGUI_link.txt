@@ -1,0 +1,6 @@
+Name: Anene Chinecherem Frances
+Matric no: 22CG031836
+Machine Learning Algorithm Used: Logistic Regression 
+Model persistence method used: Joblib
+Live URL of the hosted application: https://winecultivar-project-anene-chinecherem-2qpc.onrender.com/
+GitHub repository link: https://github.com/Neche-rem/WineCultivar_Project_Anene_Chinecherem_22CG031836
